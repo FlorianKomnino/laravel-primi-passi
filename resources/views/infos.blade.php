@@ -10,13 +10,10 @@
 
 <body>
     <h1>
-        Hello Universe!
+        This is the infos page
     </h1>
-    <h2>
-        These are my first steps with Laravel
-    </h2>
-    <a href="/products">Click here to get to the products</a>
-    <a href="/infos">Click here to get to the infos</a>
+
+    <p>infos: Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis dolorem, aspernatur provident nulla excepturi soluta beatae? Harum mollitia ducimus fugit hic voluptates consequuntur iusto, cumque ipsum sit dolores pariatur quibusdam?</p>
 
 </body>
 

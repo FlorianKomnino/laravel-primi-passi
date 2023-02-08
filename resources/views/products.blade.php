@@ -10,14 +10,17 @@
 
 <body>
     <h1>
-        Hello Universe!
+        This is the Products page
     </h1>
-    <h2>
-        These are my first steps with Laravel
-    </h2>
-    <a href="/products">Click here to get to the products</a>
-    <a href="/infos">Click here to get to the infos</a>
-
+    <p>
+        Product 1
+    </p>
+    <p>
+        Product 2
+    </p>
+    <p>
+        Product 3
+    </p>
 </body>
 
 </html>
